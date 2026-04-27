@@ -77,6 +77,8 @@ matplotlib.
 ---
 
 ## Project Structure
+```
+
 SQL_Analytics/
 ├── data/
 │   └── yellow_tripdata_2024-01.parquet
@@ -97,6 +99,7 @@ SQL_Analytics/
 │   └── fare_percentiles.png
 ├── .gitignore
 └── README.md
+```
 
 
 ## What I Learned
